@@ -19,4 +19,4 @@ With lichess, importing tournament files is possible, this will hopefully be a f
 
 # Python Version and Requirements
 
-Currently running Python 3.8.10 on Ubuntu 20.04, keep this in mind when creating the environment. All used requirements are in requirements.txt, .gitignore currently ignores .env which is the location of the python environment. 
+Currently running Python 3.8.10 on Ubuntu 20.04, keep this in mind when creating the environment. All used requirements are in requirements.txt, .gitignore currently ignores .env file and LUChess which is the name used for the environment.
