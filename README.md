@@ -16,3 +16,7 @@ When tournaments are created or nearly started, will have the capability to ping
 ## Tournament Imports
 
 With lichess, importing tournament files is possible, this will hopefully be a feature, such that when tournaments are done, the tournament PGN and game tables will be able to be imported. This can be used for analysis. 
+
+# Python Version and Requirements
+
+Currently running Python 3.8.10 on Ubuntu 20.04, keep this in mind when creating the environment. All used requirements are in requirements.txt, .gitignore currently ignores .env which is the location of the python environment. 
